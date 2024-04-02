@@ -1,0 +1,20 @@
+{
+  "title": "ToDo List",
+  "tasklist": "Task_List",
+  "setting": "Settings",
+  "language": "Language",
+  "arabic": "Arabic",
+  "english": "English",
+  "theme": "Theme",
+  "dark": "Dark",
+  "light": "Light",
+  "add_new_task": "Add New Task",
+  "title_task": "Title",
+  "des": "Description",
+  "date": "Select time",
+  "add": "Add",
+  "save":"Save Changes",
+  "back":"Back",
+  "hintTitle":"Enter Task title here",
+  "hintDesc":"Enter Task description here "
+}
